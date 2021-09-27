@@ -1,0 +1,2 @@
+console.log("i run this code in terminal by 'node test.js'");
+console.log("so now i understand what mean 'NodeJS is an JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser'");
